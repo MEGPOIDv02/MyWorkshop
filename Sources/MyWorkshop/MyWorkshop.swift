@@ -4,6 +4,6 @@ public struct MyWorkshop {
     }
     //Function
     public func HelloName()->String{
-        return "Saludos"
+        return "jjejejeej"
     }
 }
